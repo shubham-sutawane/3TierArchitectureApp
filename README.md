@@ -7,14 +7,12 @@ A 3-Tier Architecture app separates the presentation, application, and database 
 
 ## 🚀 **In this Project, I have used the following AWS services:**
 
-| Service        | Icon                 |
-|----------------|----------------------|
-| **VPC**        | ![VPC Icon](https://img.icons8.com/color/48/000000/cloud-network.png) |
-| **S3**         | ![S3 Icon](https://img.icons8.com/color/48/000000/amazon-s3.png) |
-| **IAM**        | ![IAM Icon](https://img.icons8.com/color/48/000000/lock.png)       |
-| **EC2**        | ![EC2 Icon](https://img.icons8.com/color/48/000000/cloud-server.png) |
-| **RDS**        | ![RDS Icon](https://img.icons8.com/color/48/000000/database.png)  |
-| **Route53**    | ![Route53 Icon](https://img.icons8.com/color/48/000000/dns.png)    |
+- **VPC**  
+- **S3**  
+- **IAM**  
+- **EC2**  
+- **RDS**  
+- **Route 53**
 
 ---
 
