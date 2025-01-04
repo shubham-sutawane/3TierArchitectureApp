@@ -27,7 +27,7 @@ A 3-Tier Architecture app separates the presentation, application, and database 
 
 If you successfully complete the practice:  
 ✨ Kindly share your experience and views on LinkedIn. Don't forget to tag me!  
-💡 Your feedback boosts my enthusiasm to create more DevOps and AWS tutorials.
+💡 Your feedback boosts my enthusiasm to create more DevOps and AWS tutorials..
 
 ---
 
