@@ -27,14 +27,15 @@ A 3-Tier Architecture app separates the presentation, application, and database 
 
 If you successfully complete the practice:  
 ✨ Kindly share your experience and views on LinkedIn. Don't forget to tag me!  
-💡 Your feedback boosts my enthusiasm to create more DevOps and AWS tutorials..
+💡 Your feedback boosts my enthusiasm to create more DevOps and AWS tutorials.
 
 ---
 
-### 📌 **Connect with me**  
+## 📌 **Connect with Me**  
 - **LinkedIn**: [Kastro Kiran](https://www.linkedin.com/in/kastro-kiran/)  
 - **YouTube**: [Learn With KASTRO](https://www.youtube.com/@LearnWithKASTRO)  
-- **AWS 3-Tier Architecture Project Tutorial**: [Watch Now](https://www.youtube.com/@LearnWithKASTRO)  
+- **AWS 3-Tier Architecture Project Tutorial**: [Watch Now]((https://youtu.be/Oj-Hr_aulK)  
+- **WhatsApp Group**: [Join Now for Updates and Discussions](https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm)
 
 ---
 
