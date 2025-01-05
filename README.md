@@ -34,7 +34,7 @@ If you successfully complete the practice:
 ## 📌 **Connect with Me**  
 - **LinkedIn**: [Kastro Kiran](https://www.linkedin.com/in/kastro-kiran/)  
 - **YouTube**: [Learn With KASTRO](https://www.youtube.com/@LearnWithKASTRO)  
-- **AWS 3-Tier Architecture Project Tutorial**: [Watch Now](https://youtu.be/Oj-Hr_aulK)  
+- **AWS 3-Tier Architecture Project Tutorial**: [Watch Now](https://www.youtube.com/watch?v=Oj-Hr_aulKA)  
 - **WhatsApp Group**: [Join Now for Updates and Discussions](https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm)
 
 ---
